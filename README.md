@@ -2,4 +2,4 @@
 
 ### Gambar Arsitektur
 
-![alt text](https://github.com/Samsudhuha/EAS-BDT/ss/arsitektur.png?raw=true)
+![alt text](https://github.com/Samsudhuha/EAS-BDT/blob/main/ss/arsitektur.png)
